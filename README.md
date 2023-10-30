@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Create a Python Enviroment and Activate it.
+1. Create a Python environment and Activate it.
 2. Install Dependecies.
 
     ```bash
@@ -15,9 +15,9 @@
     python app.py
     ```
 
-4. First Run will be a little long due to the browser being downloaded.
+4. The First Run will be a little long due to the browser being downloaded.
 
-5. Tp Run the browser without shown the UI, uncomment the following line in the script.
+5. To Run the browser without showing the UI, uncomment the following line in the script.
 
     ```python
     options.add_argument('--headless')
