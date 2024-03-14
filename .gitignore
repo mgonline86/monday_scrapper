@@ -1,2 +1,9 @@
 .vscode
 /env
+
+#private data
+Sent_to_Client
+*.csv
+*.html
+*_test*.csv
+!*sample*.csv
